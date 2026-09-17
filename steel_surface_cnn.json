@@ -1,0 +1,12 @@
+{
+  "classes": [
+    "crazing",
+    "inclusion",
+    "patches",
+    "pitted_surface",
+    "rolled-in_scale",
+    "scratches"
+  ],
+  "image_size": 224,
+  "best_validation_accuracy": 0.9972222222222222
+}

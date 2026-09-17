@@ -1,0 +1,29 @@
+# IDE and editor-local settings
+.idea/
+.vscode/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Local runtime artifacts
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Duplicate/local model output directory
+MODEL/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
